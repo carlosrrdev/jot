@@ -1,0 +1,3 @@
+# Jot
+
+Note taking app
